@@ -1,7 +1,13 @@
-body {
-    background-color: antiquewhite;
-}
+/*
+    #a4c2d1; egg blue
+    #dbdcde; light grey
+    #1f7798; mid-blue
+    #184f63; dark-blue
+*/
 
-#website-header {
-    font-size: 5rem;
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Poppins&display=swap');
+
+body {
+    font-family: "Poppins", sans-serif;
+    background-color: #a4c2d1;
 }
