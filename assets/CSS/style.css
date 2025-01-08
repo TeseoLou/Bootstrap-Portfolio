@@ -45,6 +45,10 @@ h1, h2 {
     font-size: 1.2rem;
 }
 
+#portfolio .btn:hover {
+    background-color: #1f7798;
+}
+
 /* Contact Section */
 
 #contact {
